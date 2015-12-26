@@ -22,7 +22,7 @@
  *
  */
 
-definition(
+definition( 
     name: "Rule Machine",
     singleInstance: true,
     namespace: "bravenel",
